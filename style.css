@@ -6,8 +6,16 @@ body.black{
   background-color:black;
   color:white;
 }
-
-header{
+#logo {
+  width:100px;
+}
+.container{
+  padding-top:20px;
+}
+#control{
+  margin-bottom:40px;
+}
+/* header{
   border-bottom:1px solid gray;
   padding:20px;
 }
@@ -32,4 +40,4 @@ article{
 header img{
   float:right;
   height:100px;
-}
+} */
